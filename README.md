@@ -6,6 +6,7 @@ C++ has an STL called map (also called dictionary). It stores a key-value pair. 
 **Assignment:**
 
 Design a class called **Dictionary** that works like a dictionary/map. You only need to create a single file "dictionary.h" that includes all the code for your dictionary class. The file "dictionary.h" may include other header files. The class should keep track of key-value pairs. All the keys must be unique. For a key, uppercase and lowercase letters should be treated the same. Your class should include a single default constructor that initializes an empty dictionary. The class should have the following functions (*Do not change the names of the functions*):
+
 - **get** – returns the value stored at specified key. If not found return the string `"NOT_FOUND"`
 - **put** – add a key-value pair to the dictionary. If it already exists, it should replace its value
 - **keys** – returns all the keys in the dictionary in a vector of type string. They should be in the same order as the entries in the dictionary.
