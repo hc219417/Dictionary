@@ -1,5 +1,5 @@
 # Dictionary
-**Objective:** Work with pointers and doubly linked lists.
+**Objective:** work with pointers and doubly linked lists
 
 C++ has an STL called map (also called dictionary). It stores a key-value pair. In this assignment, you are going to design your own map class. This map class is very simple. Its key-value pairs are all strings.
 
